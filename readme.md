@@ -1,5 +1,5 @@
 
-The project is to find similar movies that user might like by designing recommendation systems. We are going to create a item-based recommendation system and a user-based recommendation system. Dataset can be downloaded at https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zi
+The project is to find similar movies that user might like by designing recommendation systems. We are going to create a item-based recommendation system and a user-based recommendation system. Dataset can be downloaded at https://s3-api.us-geo.objectstorage.softlayer.net/cf-courses-data/CognitiveClass/ML0101ENv3/labs/moviedataset.zip
 
 # Preprocessing
 import all the frameworks that we need and all the data we want to process
